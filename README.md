@@ -14,6 +14,10 @@ t-test оказался чувствительнее scCODA в случае ма
 
 волчанка: https://colab.research.google.com/drive/1YLKckBgEAO9CUnIfEd9XC3hjV2iAL0Hk?usp=sharing
 
+волчанка 2: https://colab.research.google.com/drive/1tdV5AXdObhb5vVOb5-Nvbw3G3vfqIAvt?usp=sharing
+
+волчанка 3: https://colab.research.google.com/drive/1wwYdCeBI9ruZmkj724wJMYCriObukAwh?usp=sharing
+
 ревматоидный артрит: https://colab.research.google.com/drive/1a70jyyQnC524wFToLrEiy0ZYIC3tdCMj?usp=sharing
 
 искусственные данные: https://colab.research.google.com/drive/1MoKQnPXZFzbPasLw49MkWoVnJ_X13Ygu?usp=sharing
